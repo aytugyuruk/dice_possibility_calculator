@@ -1,2 +1,5 @@
 # Dice Possibility Calculator
- A simple Python app to simulate dice rolls and display the probability of each face as percentages.
+
+This Python application simulates rolling a standard six-sided dice multiple times and calculates the probability of each face appearing as percentages. It offers a simple and intuitive way to explore probability, making it ideal for educational use, experiments, or dice-based activities.
+
+Created by Aytuğ Yürük.
